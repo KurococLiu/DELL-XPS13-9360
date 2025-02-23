@@ -1,0 +1,3 @@
+  setup_var 0x4de 0x00  // Disable CFG Lock
+  setup_var 0x785 0x06  // Increase DVMT pre-allocated size to 192M For FHD version, it's also recommended setting to 192M
+  setup_var 0x786 0x03  // Increase CFG Memory to maximum

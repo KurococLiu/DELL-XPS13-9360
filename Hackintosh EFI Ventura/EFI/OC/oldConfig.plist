@@ -1008,7 +1008,7 @@
                 <key>TakeoffDelay</key>
                 <integer>0</integer>
                 <key>Timeout</key>
-                <integer>3</integer>
+                <integer>1</integer>
             </dict>
             <key>Debug</key>
             <dict>
@@ -1152,7 +1152,7 @@
                 <key>SystemMemoryStatus</key>
                 <string>Auto</string>
                 <key>SystemProductName</key>
-                <string>MacBookPro15,4</string>
+                <string>MacBookPro15,2</string>
                 <key>SystemSerialNumber</key>
                 <string>FVFYXJYRL40Y</string>
                 <key>SystemUUID</key>

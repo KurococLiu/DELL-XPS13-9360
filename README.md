@@ -6,7 +6,7 @@ Memory             8G DDR3L 2133MHz
 Graphics           Intel UHD Graphics 620
 Audio              Realtek ALC256
 Wi-Fi              DELL DW1560
-Storage            Intel 760P SSD 512G
+Storage            WD SN550
 Monitor            FHD 1920x1080
 BIOS Verison       2.21.0
 macOS Version      Ventura 13.7.4

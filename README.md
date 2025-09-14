@@ -9,7 +9,7 @@ Wi-Fi              DELL DW1560
 Storage            WD SN550
 Monitor            FHD 1920x1080
 BIOS Verison       2.21.0
-macOS Version      Ventura 13.7.4
+macOS Version      Ventura 13.7.8
 OpenCore Version   1.0.5
 ```
 

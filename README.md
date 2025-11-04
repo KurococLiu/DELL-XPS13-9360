@@ -1,4 +1,5 @@
 ## Hackintosh OpenCore EFI for DELL XPS13 9360
+
 ```
 Model              DELL XPS13 9360
 CPU                Intel Core i5-8250U
@@ -9,6 +10,10 @@ Wi-Fi              DELL DW1560
 Storage            WD SN550
 Monitor            FHD 1920x1080
 BIOS Verison       2.21.0
+
+macOS Version      Sequoia 15.7.2
+OpenCore Version   1.0.6
+
 macOS Version      Ventura 13.7.8
 OpenCore Version   1.0.5
 ```
